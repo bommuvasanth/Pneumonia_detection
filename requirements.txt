@@ -1,0 +1,25 @@
+# Core dependencies
+streamlit>=1.28.0
+tensorflow>=2.13.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+pandas>=2.0.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# PDF generation (optional)
+reportlab>=4.0.0
+
+# Optional dependencies
+# Uncomment if you want to use these features:
+
+# MongoDB logging
+# pymongo>=4.5.0
+
+# Additional image processing (if needed)
+# scikit-image>=0.21.0
+# matplotlib>=3.7.0
+
+# Email functionality (built-in with Python, no additional packages needed)
