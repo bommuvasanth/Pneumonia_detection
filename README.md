@@ -1,4 +1,4 @@
-👇
+**👇
 
 🩺 Pneumonia Detection using Deep Learning
 📘 Overview
@@ -49,3 +49,4 @@ Achieved high accuracy in detecting Pneumonia vs. Normal cases.
 Grad-CAM visualizations clearly highlighted infected regions in X-rays.
 
 Reduced false negatives through enhanced preprocessing and threshold tuning.
+**
