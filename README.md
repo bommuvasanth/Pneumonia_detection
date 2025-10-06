@@ -1,12 +1,12 @@
 **👇
 
-🩺 Pneumonia Detection using Deep Learning
-📘 Overview
+##🩺 Pneumonia Detection using Deep Learning
+##📘 Overview
 
 This project is a deep learning-based medical image analysis system designed to detect Pneumonia from chest X-ray images.
 It uses Convolutional Neural Networks (CNN) for image classification and integrates Grad-CAM visualization to highlight the infected regions, improving interpretability and trust in model predictions.
 
-🚀 Features
+##🚀 Features
 
 Detects Normal and Pneumonia cases from X-ray images.
 
@@ -18,7 +18,7 @@ Handles false negatives using threshold-based logic and fallback prediction.
 
 Optimized model performance with data augmentation and dropout regularization.
 
-🧠 Tech Stack
+##🧠 Tech Stack
 
 Programming Language: Python
 
@@ -28,7 +28,7 @@ Explainability: Grad-CAM
 
 Model Type: Convolutional Neural Network (CNN)
 
-⚙️ Workflow
+##⚙️ Workflow
 
 Dataset Loading: Import chest X-ray dataset and split into train/test sets.
 
@@ -42,7 +42,7 @@ Explainability: Generate Grad-CAM heatmaps for each prediction.
 
 False Negative Fix: Implement logic to minimize misclassification of Pneumonia as Normal.
 
-📊 Results
+##📊 Results
 
 Achieved high accuracy in detecting Pneumonia vs. Normal cases.
 
